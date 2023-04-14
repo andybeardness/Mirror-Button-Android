@@ -13,7 +13,8 @@ The idea to create a similar application after I saw something similar in social
 |----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_1.png) | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_2.png) |
 | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_3.png) | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_4.png) |
-## Video
+
+## Preview
 
 [YouTube](https://www.youtube.com/shorts/vcDtZ75JJJo)
 
