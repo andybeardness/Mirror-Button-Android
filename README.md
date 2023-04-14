@@ -14,5 +14,5 @@ The idea to create a similar application after I saw something similar in social
 
 ## Based on
 
-Based on (@owahltinez/camerax-tflite)[https://github.com/owahltinez/camerax-tflite] repository
+Based on [@owahltinez/camerax-tflite](https://github.com/owahltinez/camerax-tflite) repository
 
