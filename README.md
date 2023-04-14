@@ -15,6 +15,10 @@ The idea to create a similar application after I saw something similar in social
 | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_3.png) | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_4.png) |
 ## Video
 
+[YouTube](https://www.youtube.com/shorts/vcDtZ75JJJo)
+
+[![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/yt.jpg)](https://www.youtube.com/shorts/vcDtZ75JJJo)
+
 ## Based on
 
 Based on [@owahltinez/camerax-tflite](https://github.com/owahltinez/camerax-tflite) repository
