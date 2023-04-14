@@ -9,10 +9,10 @@ This mobile app has a single role - to show a "mirror" button in an android appl
 The idea to create a similar application after I saw something similar in social networks
 
 ## Screenshots
-| Screenshots  | Screenshots |
-| ------------- | ------------- |
-| ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_one.png)  | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_two.png)  |
-| ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_three.png)  | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_four.png)  |
+| Screenshots                                                                                              | Screenshots                                                                                              |
+|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_1.png) | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_2.png) |
+| ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_3.png) | ![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/pic_4.png) |
 ## Video
 
 ## Based on
