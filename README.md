@@ -18,7 +18,9 @@ The idea to create a similar application after I saw something similar in social
 
 [YouTube](https://www.youtube.com/shorts/vcDtZ75JJJo)
 
-<img src="https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/rec.gif" width="250">
+| Screen record |
+| - |
+| <img src="https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/rec.gif" width="250"> |
 
 [![](https://raw.githubusercontent.com/andybeardness/Mirror-Button-Android/release/screenshots/yt.jpg)](https://www.youtube.com/shorts/vcDtZ75JJJo)
 
